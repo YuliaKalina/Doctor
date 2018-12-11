@@ -1,0 +1,37 @@
+body { 
+    background: white;
+    font-family: 'Comfortaa', cursive;
+}
+h1 { 
+    text-align:left;
+    color: black;
+}
+h2{
+    text-align:left;
+    color:black;
+}
+.header {
+    width: 130%;
+    margin-left: -8px;
+    border-bottom: solid 1px #707070;
+    margin-top: -22px;
+    background-size: cover;
+    background-position-x: 100%;
+    background-position-y: 55%;
+    background-image: url(https://linagor.files.wordpress.com/2018/01/audrey-hepburn-style-tips-novate1.jpg);
+    background-repeat: no-repeat;
+    height: 300px;
+}
+
+.header-title {
+    margin-left: 20px;
+    font-size: 38px;
+    margin-bottom: -4px;
+    padding-top: 82px;
+    z-index: 0;
+}
+.header-text {
+    margin-left: 20px;
+    font-size: 15px;
+    color: #707070;
+}
